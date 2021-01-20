@@ -15,6 +15,11 @@ body {
   margin: 1em;
   background-color: #FFB3B5;
 }
+a {
+  text-decoration: none;
+  color: inherit;
+
+}
 /* class-based  */
 
 .header-group {
